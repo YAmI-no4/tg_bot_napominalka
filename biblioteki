@@ -1,1 +1,4 @@
-aiogram==3.4.1
+pip
+setuptools
+wheel
+aiogram>=3.3,<3.5
