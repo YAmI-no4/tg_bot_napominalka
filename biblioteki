@@ -1,4 +1,0 @@
-pip
-setuptools
-wheel
-aiogram>=3.3,<3.5
